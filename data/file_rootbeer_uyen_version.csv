@@ -1,0 +1,851 @@
+Filename,Touches,Author,Date,Email
+rootbeerlib/src/main/AndroidManifest.xml,4,Alessandro Yuichi Okimoto,2015-10-06T08:56:57Z,yuichijpn@gmail.com
+app/src/main/AndroidManifest.xml,10,Alessandro Yuichi Okimoto,2015-10-01T12:26:13Z,yuichijpn@gmail.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Ali Waseem,2017-08-11T15:34:54Z,waseema393@gmail.com
+.gitignore,15,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+.idea/.name,2,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+.idea/compiler.xml,2,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+.idea/copyright/profiles_settings.xml,2,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+.idea/gradle.xml,4,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+.idea/misc.xml,5,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+.idea/modules.xml,3,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+.idea/runConfigurations.xml,3,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+.idea/vcs.xml,2,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/app.iml,14,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/build.gradle,24,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/AndroidManifest.xml,10,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/assets/SubwayNovella.ttf,1,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/java/com/scottyab/rootbeer/sample/CheckRootTask.java,11,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.java,14,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/java/com/scottyab/rootbeer/sample/TextViewFont.java,7,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/drawable-hdpi/ic_action_github.png,2,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/drawable-hdpi/ic_info_outline_white_18dp.png,2,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/drawable-hdpi/ic_info_outline_white_24dp.png,2,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/drawable-hdpi/ic_info_outline_white_36dp.png,2,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/drawable-hdpi/ic_lock_open_white_24dp.png,2,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/drawable-mdpi/ic_info_outline_white_18dp.png,2,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/drawable-mdpi/ic_info_outline_white_24dp.png,2,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/drawable-mdpi/ic_info_outline_white_36dp.png,2,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/drawable-mdpi/ic_lock_open_white_24dp.png,2,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/drawable-xhdpi/ic_action_github.png,2,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/drawable-xhdpi/ic_cross_red_24dp.png,2,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/drawable-xhdpi/ic_info_outline_white_18dp.png,2,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/drawable-xhdpi/ic_info_outline_white_24dp.png,2,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/drawable-xhdpi/ic_info_outline_white_36dp.png,2,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/drawable-xhdpi/ic_lock_open_white_24dp.png,2,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/drawable-xhdpi/ic_tick_green_24dp.png,2,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/drawable-xxhdpi/ic_action_github.png,2,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/drawable-xxhdpi/ic_info_outline_white_18dp.png,2,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/drawable-xxhdpi/ic_info_outline_white_24dp.png,2,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/drawable-xxhdpi/ic_info_outline_white_36dp.png,2,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/drawable-xxhdpi/ic_lock_open_white_24dp.png,2,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/drawable-xxxhdpi/ic_info_outline_white_18dp.png,2,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/drawable-xxxhdpi/ic_info_outline_white_24dp.png,2,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/drawable-xxxhdpi/ic_info_outline_white_36dp.png,2,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/drawable-xxxhdpi/ic_lock_open_white_24dp.png,2,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/drawable/pint_glass.png,2,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/layout/activity_main.xml,15,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/layout/content_main.xml,6,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/menu/menu_main.xml,4,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/mipmap-hdpi/ic_launcher.png,4,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/mipmap-mdpi/ic_launcher.png,4,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/mipmap-xhdpi/ic_launcher.png,4,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/mipmap-xxhdpi/ic_launcher.png,4,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/mipmap-xxxhdpi/ic_launcher.png,3,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/values-w820dp/dimens.xml,3,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/values/attrs.xml,4,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/values/colors.xml,3,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/values/dimens.xml,3,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/values/strings.xml,7,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+app/src/main/res/values/styles.xml,4,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+build.gradle,25,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+rootbeer.iml,7,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+rootbeerlib/rootbeerlib.iml,12,Andy Barber,2016-07-01T14:40:45Z,andyb@barbuzz.co.uk
+rootbeerlib/build.gradle,28,Antonio,2017-05-02T11:42:25Z,toteto@users.noreply.github.com
+rootbeerlib/build.gradle,28,Antonio,2017-05-02T11:42:25Z,toteto@users.noreply.github.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,BIOCATCH\Leon.Karabchevsky,2017-06-07T07:53:52Z,leon.karabchevsky@biocatch.com
+README.md,43,Daniel Kutik,2020-01-31T00:54:28Z,daniel@kutik.eu
+build.gradle,25,Daniel Kutik,2020-01-31T00:54:28Z,daniel@kutik.eu
+gradle/wrapper/gradle-wrapper.properties,14,Daniel Kutik,2020-01-31T00:54:28Z,daniel@kutik.eu
+rootbeerlib/build.gradle,28,Daniel Kutik,2020-01-31T00:54:28Z,daniel@kutik.eu
+rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java,24,Daniel Kutik,2020-01-31T00:54:28Z,daniel@kutik.eu
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Daniel Kutik,2020-01-31T00:54:28Z,daniel@kutik.eu
+rootbeerlib/src/test/java/com/scottyab/rootbeer/RootBeerTest.java,13,Daniel Kutik,2020-01-31T00:54:28Z,daniel@kutik.eu
+app/build.gradle,24,Daniel Kutik,2019-11-16T02:45:47Z,daniel@kutik.eu
+app/src/androidTest/java/com/scottyab/rootbeer/ApplicationTest.java,6,Daniel Kutik,2019-11-16T02:45:47Z,daniel@kutik.eu
+rootbeerlib/build.gradle,28,Daniel Kutik,2019-11-16T02:45:47Z,daniel@kutik.eu
+rootbeerlib/src/androidTest/java/com/scottyab/rootbeer/ApplicationTest.java,6,Daniel Kutik,2019-11-16T02:45:47Z,daniel@kutik.eu
+.gitattributes,2,Daniel Kutik,2019-11-16T02:39:54Z,daniel@kutik.eu
+app/src/main/java/com/scottyab/rootbeer/sample/CheckRootTask.java,11,Daniel Kutik,2019-11-16T02:39:54Z,daniel@kutik.eu
+app/src/main/java/com/scottyab/rootbeer/sample/TextViewFont.java,7,Daniel Kutik,2019-11-16T02:39:54Z,daniel@kutik.eu
+app/src/main/res/layout/activity_main.xml,15,Daniel Kutik,2019-11-16T02:39:54Z,daniel@kutik.eu
+.gitignore,15,Daniel Kutik,2019-11-16T02:34:24Z,daniel@kutik.eu
+app/build.gradle,24,Daniel Kutik,2019-11-16T02:34:24Z,daniel@kutik.eu
+app/src/androidTest/java/com/scottyab/rootbeer/ApplicationTest.java,6,Daniel Kutik,2019-11-16T02:34:24Z,daniel@kutik.eu
+app/src/main/AndroidManifest.xml,10,Daniel Kutik,2019-11-16T02:34:24Z,daniel@kutik.eu
+app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.java,14,Daniel Kutik,2019-11-16T02:34:24Z,daniel@kutik.eu
+app/src/main/java/com/scottyab/rootbeer/sample/TextViewFont.java,7,Daniel Kutik,2019-11-16T02:34:24Z,daniel@kutik.eu
+app/src/main/res/layout/activity_main.xml,15,Daniel Kutik,2019-11-16T02:34:24Z,daniel@kutik.eu
+app/src/main/res/values/styles.xml,4,Daniel Kutik,2019-11-16T02:34:24Z,daniel@kutik.eu
+build.gradle,25,Daniel Kutik,2019-11-16T02:34:24Z,daniel@kutik.eu
+gradle.properties,14,Daniel Kutik,2019-11-16T02:34:24Z,daniel@kutik.eu
+gradle/wrapper/gradle-wrapper.jar,5,Daniel Kutik,2019-11-16T02:34:24Z,daniel@kutik.eu
+gradle/wrapper/gradle-wrapper.properties,14,Daniel Kutik,2019-11-16T02:34:24Z,daniel@kutik.eu
+rootbeerlib/build.gradle,28,Daniel Kutik,2019-11-16T02:34:24Z,daniel@kutik.eu
+rootbeerlib/src/androidTest/java/com/scottyab/rootbeer/ApplicationTest.java,6,Daniel Kutik,2019-11-16T02:34:24Z,daniel@kutik.eu
+rootbeerlib/src/test/java/com/scottyab/rootbeer/RootBeerTest.java,13,Daniel Kutik,2019-11-16T02:34:24Z,daniel@kutik.eu
+app/src/main/AndroidManifest.xml,10,Deepak PK,2020-03-11T09:28:40Z,deepakpk009@users.noreply.github.com
+app/src/main/res/layout/activity_main.xml,15,Deepak PK,2020-03-11T09:28:40Z,deepakpk009@users.noreply.github.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java,24,Fi5t,2020-07-15T20:47:49Z,Fi5t@users.noreply.github.com
+build.gradle,25,Frieder Bluemle,2017-08-19T16:20:33Z,frieder.bluemle@gmail.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Frieder Bluemle,2017-08-19T16:20:33Z,frieder.bluemle@gmail.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/util/QLog.java,12,Frieder Bluemle,2017-08-19T16:20:33Z,frieder.bluemle@gmail.com
+build.gradle,25,Frieder Bluemle,2017-05-11T16:32:04Z,frieder.bluemle@gmail.com
+LICENSE,4,Frieder Bluemle,2017-05-11T16:41:00Z,frieder.bluemle@gmail.com
+README.md,43,Frieder Bluemle,2017-05-11T16:41:00Z,frieder.bluemle@gmail.com
+app/proguard-rules.pro,3,Frieder Bluemle,2017-05-11T16:41:00Z,frieder.bluemle@gmail.com
+app/src/androidTest/java/com/scottyab/rootbeer/ApplicationTest.java,6,Frieder Bluemle,2017-05-11T16:41:00Z,frieder.bluemle@gmail.com
+app/src/main/res/layout/activity_main.xml,15,Frieder Bluemle,2017-05-11T16:41:00Z,frieder.bluemle@gmail.com
+app/src/main/res/layout/content_main.xml,6,Frieder Bluemle,2017-05-11T16:41:00Z,frieder.bluemle@gmail.com
+app/src/main/res/values/attrs.xml,4,Frieder Bluemle,2017-05-11T16:41:00Z,frieder.bluemle@gmail.com
+app/src/main/res/values/strings.xml,7,Frieder Bluemle,2017-05-11T16:41:00Z,frieder.bluemle@gmail.com
+changes.md,8,Frieder Bluemle,2017-05-11T16:41:00Z,frieder.bluemle@gmail.com
+rootbeerlib/build.gradle,28,Frieder Bluemle,2017-05-11T16:41:00Z,frieder.bluemle@gmail.com
+rootbeerlib/gradle.properties,3,Frieder Bluemle,2017-05-11T16:41:00Z,frieder.bluemle@gmail.com
+rootbeerlib/proguard-rules.pro,3,Frieder Bluemle,2017-05-11T16:41:00Z,frieder.bluemle@gmail.com
+rootbeerlib/src/androidTest/java/com/scottyab/rootbeer/ApplicationTest.java,6,Frieder Bluemle,2017-05-11T16:41:00Z,frieder.bluemle@gmail.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/util/QLog.java,12,Frieder Bluemle,2017-05-11T16:41:00Z,frieder.bluemle@gmail.com
+rootbeerlib/src/main/jni/Android.mk,6,Frieder Bluemle,2017-05-11T16:41:00Z,frieder.bluemle@gmail.com
+rootbeerlib/src/main/jni/Application.mk,8,Frieder Bluemle,2017-05-11T16:41:00Z,frieder.bluemle@gmail.com
+rootbeerlib/src/main/jni/toolChecker.cpp,5,Frieder Bluemle,2017-05-11T16:41:00Z,frieder.bluemle@gmail.com
+rootbeerlib/src/main/jni/toolChecker.h,4,Frieder Bluemle,2017-05-11T16:41:00Z,frieder.bluemle@gmail.com
+.gitignore,15,Frieder Bluemle,2017-05-11T16:43:00Z,frieder.bluemle@gmail.com
+app/.gitignore,3,Frieder Bluemle,2017-05-11T16:43:00Z,frieder.bluemle@gmail.com
+rootbeerlib/.gitignore,6,Frieder Bluemle,2017-05-11T16:43:00Z,frieder.bluemle@gmail.com
+gradle.properties,14,Frieder Bluemle,2017-05-11T16:31:26Z,frieder.bluemle@gmail.com
+gradle/wrapper/gradle-wrapper.jar,5,Frieder Bluemle,2017-05-11T16:31:26Z,frieder.bluemle@gmail.com
+gradle/wrapper/gradle-wrapper.properties,14,Frieder Bluemle,2017-05-11T16:31:26Z,frieder.bluemle@gmail.com
+gradlew,3,Frieder Bluemle,2017-05-11T16:31:26Z,frieder.bluemle@gmail.com
+gradlew.bat,3,Frieder Bluemle,2017-05-11T16:31:26Z,frieder.bluemle@gmail.com
+app/src/main/java/com/scottyab/rootbeer/sample/TextViewFont.java,7,Frieder Bluemle,2017-05-11T16:55:33Z,frieder.bluemle@gmail.com
+app/app.iml,14,Frieder Bluemle,2017-05-11T16:56:16Z,frieder.bluemle@gmail.com
+rootbeer.iml,7,Frieder Bluemle,2017-05-11T16:56:16Z,frieder.bluemle@gmail.com
+rootbeerlib/rootbeerlib.iml,12,Frieder Bluemle,2017-05-11T16:56:16Z,frieder.bluemle@gmail.com
+README.md,43,Harsh Mahajan,2021-06-07T08:50:08Z,harshmahajan927@yahoo.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java,24,Ivan Vlasov,2019-12-09T10:32:18Z,Blizzed@bk.ru
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Ivan Vlasov,2019-12-09T10:32:18Z,Blizzed@bk.ru
+README.md,43,Jamie Cruwys,2019-05-02T15:28:11Z,me@jamiecruwys.co.uk
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,LeonKarabchevsky,2017-06-11T14:34:20Z,leonkar51@hotmail.com
+README.md,43,Litrik De Roy,2016-01-06T09:29:30Z,litrik@norio.be
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeerNative.java,10,Matthew Rollings,2021-05-24T07:35:11Z,1211162+stealthcopter@users.noreply.github.com
+README.md,43,Matthew Rollings,2020-07-21T13:58:39Z,1211162+stealthcopter@users.noreply.github.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Matthew Rollings,2020-07-21T13:10:44Z,1211162+stealthcopter@users.noreply.github.com
+build.gradle,25,Matthew Rollings,2020-02-08T21:35:00Z,1211162+stealthcopter@users.noreply.github.com
+rootbeerlib/build.gradle,28,Matthew Rollings,2020-02-08T21:35:00Z,1211162+stealthcopter@users.noreply.github.com
+gradle.properties,14,Matthew Rollings,2020-02-08T20:34:17Z,1211162+stealthcopter@users.noreply.github.com
+.circleci/config.yml,7,Matthew Rollings,2020-02-07T14:44:11Z,1211162+stealthcopter@users.noreply.github.com
+README.md,43,Matthew Rollings,2020-02-07T14:44:11Z,1211162+stealthcopter@users.noreply.github.com
+app/build.gradle,24,Matthew Rollings,2020-02-07T14:44:11Z,1211162+stealthcopter@users.noreply.github.com
+art/sticker.png,2,Matthew Rollings,2020-02-07T14:44:11Z,1211162+stealthcopter@users.noreply.github.com
+build.gradle,25,Matthew Rollings,2020-02-07T14:44:11Z,1211162+stealthcopter@users.noreply.github.com
+changes.md,8,Matthew Rollings,2020-02-07T14:44:11Z,1211162+stealthcopter@users.noreply.github.com
+rootbeerlib/build.gradle,28,Matthew Rollings,2020-02-07T14:44:11Z,1211162+stealthcopter@users.noreply.github.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Matthew Rollings,2020-02-07T14:44:11Z,1211162+stealthcopter@users.noreply.github.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/util/QLog.java,12,Matthew Rollings,2020-02-07T14:44:11Z,1211162+stealthcopter@users.noreply.github.com
+rootbeerlib/src/main/jniLibs/arm64-v8a/libtool-checker.so,13,Matthew Rollings,2020-02-07T14:44:11Z,1211162+stealthcopter@users.noreply.github.com
+rootbeerlib/src/main/jniLibs/armeabi-v7a/libtool-checker.so,19,Matthew Rollings,2020-02-07T14:44:11Z,1211162+stealthcopter@users.noreply.github.com
+rootbeerlib/src/main/jniLibs/x86/libtool-checker.so,17,Matthew Rollings,2020-02-07T14:44:11Z,1211162+stealthcopter@users.noreply.github.com
+rootbeerlib/src/main/jniLibs/x86_64/libtool-checker.so,13,Matthew Rollings,2020-02-07T14:44:11Z,1211162+stealthcopter@users.noreply.github.com
+.gitattributes,2,Matthew Rollings,2020-02-03T20:42:40Z,1211162+stealthcopter@users.noreply.github.com
+.gitignore,15,Matthew Rollings,2020-02-03T20:42:40Z,1211162+stealthcopter@users.noreply.github.com
+app/build.gradle,24,Matthew Rollings,2020-02-03T20:42:40Z,1211162+stealthcopter@users.noreply.github.com
+app/src/androidTest/java/com/scottyab/rootbeer/ApplicationTest.java,6,Matthew Rollings,2020-02-03T20:42:40Z,1211162+stealthcopter@users.noreply.github.com
+app/src/main/AndroidManifest.xml,10,Matthew Rollings,2020-02-03T20:42:40Z,1211162+stealthcopter@users.noreply.github.com
+app/src/main/java/com/scottyab/rootbeer/sample/CheckRootTask.java,11,Matthew Rollings,2020-02-03T20:42:40Z,1211162+stealthcopter@users.noreply.github.com
+app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.java,14,Matthew Rollings,2020-02-03T20:42:40Z,1211162+stealthcopter@users.noreply.github.com
+app/src/main/java/com/scottyab/rootbeer/sample/TextViewFont.java,7,Matthew Rollings,2020-02-03T20:42:40Z,1211162+stealthcopter@users.noreply.github.com
+app/src/main/res/layout/activity_main.xml,15,Matthew Rollings,2020-02-03T20:42:40Z,1211162+stealthcopter@users.noreply.github.com
+app/src/main/res/values/styles.xml,4,Matthew Rollings,2020-02-03T20:42:40Z,1211162+stealthcopter@users.noreply.github.com
+build.gradle,25,Matthew Rollings,2020-02-03T20:42:40Z,1211162+stealthcopter@users.noreply.github.com
+gradle.properties,14,Matthew Rollings,2020-02-03T20:42:40Z,1211162+stealthcopter@users.noreply.github.com
+gradle/wrapper/gradle-wrapper.jar,5,Matthew Rollings,2020-02-03T20:42:40Z,1211162+stealthcopter@users.noreply.github.com
+rootbeerlib/build.gradle,28,Matthew Rollings,2020-02-03T20:42:40Z,1211162+stealthcopter@users.noreply.github.com
+rootbeerlib/src/androidTest/java/com/scottyab/rootbeer/ApplicationTest.java,6,Matthew Rollings,2020-02-03T20:42:40Z,1211162+stealthcopter@users.noreply.github.com
+rootbeerlib/src/test/java/com/scottyab/rootbeer/RootBeerTest.java,13,Matthew Rollings,2020-02-03T20:42:40Z,1211162+stealthcopter@users.noreply.github.com
+rootbeerlib/src/test/java/com/scottyab/rootbeer/RootBeerTest.java,13,Matthew Rollings,2020-02-03T20:42:27Z,1211162+stealthcopter@users.noreply.github.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java,24,Matthew Rollings,2020-01-30T16:17:56Z,1211162+stealthcopter@users.noreply.github.com
+README.md,43,Matthew Rollings,2020-01-30T13:05:20Z,1211162+stealthcopter@users.noreply.github.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Matthew Rollings,2020-01-30T13:05:20Z,1211162+stealthcopter@users.noreply.github.com
+rootbeerlib/src/test/java/com/scottyab/rootbeer/RootBeerTest.java,13,Matthew Rollings,2020-01-30T13:05:20Z,1211162+stealthcopter@users.noreply.github.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java,24,Matthew Rollings,2020-01-30T13:05:03Z,1211162+stealthcopter@users.noreply.github.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Matthew Rollings,2020-01-30T13:05:03Z,1211162+stealthcopter@users.noreply.github.com
+README.md,43,Matthew Rollings,2019-06-10T10:29:09Z,1211162+stealthcopter@users.noreply.github.com
+app/src/main/java/com/scottyab/rootbeer/sample/CheckRootTask.java,11,Matthew Rollings,2019-03-14T12:24:58Z,1211162+stealthcopter@users.noreply.github.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java,24,Matthew Rollings,2019-03-14T12:24:58Z,1211162+stealthcopter@users.noreply.github.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Matthew Rollings,2019-03-14T12:24:58Z,1211162+stealthcopter@users.noreply.github.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeerNative.java,10,Matthew Rollings,2019-03-14T12:24:58Z,1211162+stealthcopter@users.noreply.github.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/util/Utils.java,5,Matthew Rollings,2019-03-14T12:24:58Z,1211162+stealthcopter@users.noreply.github.com
+rootbeerlib/src/test/java/com/scottyab/rootbeer/RootBeerTest.java,13,Matthew Rollings,2019-03-14T12:24:58Z,1211162+stealthcopter@users.noreply.github.com
+README.md,43,Matthew Rollings,2018-11-04T09:36:21Z,1211162+stealthcopter@users.noreply.github.com
+README.md,43,Matthew Rollings,2018-06-25T08:00:15Z,matthewrollings@gmail.com
+.circleci/config.yml,7,Matthew Rollings,2018-06-14T15:53:38Z,admin@stealthcopter.com
+app/build.gradle,24,Matthew Rollings,2018-06-14T15:53:38Z,admin@stealthcopter.com
+app/libs/armeabi/libtool-checker.so,3,Matthew Rollings,2018-06-14T15:53:38Z,admin@stealthcopter.com
+build.gradle,25,Matthew Rollings,2018-06-14T15:53:38Z,admin@stealthcopter.com
+gradle/wrapper/gradle-wrapper.properties,14,Matthew Rollings,2018-06-14T15:53:38Z,admin@stealthcopter.com
+rootbeerlib/build.gradle,28,Matthew Rollings,2018-06-14T15:53:38Z,admin@stealthcopter.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Matthew Rollings,2018-06-14T15:53:38Z,admin@stealthcopter.com
+rootbeerlib/src/main/jni/Application.mk,8,Matthew Rollings,2018-06-14T15:53:38Z,admin@stealthcopter.com
+rootbeerlib/src/main/jniLibs/arm64-v8a/libtool-checker.so,13,Matthew Rollings,2018-06-14T15:53:38Z,admin@stealthcopter.com
+rootbeerlib/src/main/jniLibs/armeabi-v7a/libtool-checker.so,19,Matthew Rollings,2018-06-14T15:53:38Z,admin@stealthcopter.com
+rootbeerlib/src/main/jniLibs/armeabi/libtool-checker.so,12,Matthew Rollings,2018-06-14T15:53:38Z,admin@stealthcopter.com
+rootbeerlib/src/main/jniLibs/mips/libtool-checker.so,12,Matthew Rollings,2018-06-14T15:53:38Z,admin@stealthcopter.com
+rootbeerlib/src/main/jniLibs/mips64/libtool-checker.so,8,Matthew Rollings,2018-06-14T15:53:38Z,admin@stealthcopter.com
+rootbeerlib/src/main/jniLibs/x86/libtool-checker.so,17,Matthew Rollings,2018-06-14T15:53:38Z,admin@stealthcopter.com
+rootbeerlib/src/main/jniLibs/x86_64/libtool-checker.so,13,Matthew Rollings,2018-06-14T15:53:38Z,admin@stealthcopter.com
+rootbeerlib/src/test/java/com/scottyab/rootbeer/RootBeerTest.java,13,Matthew Rollings,2018-06-14T15:53:38Z,admin@stealthcopter.com
+app/build.gradle,24,Matthew Rollings,2018-06-14T14:54:13Z,matthewrollings@gmail.com
+build.gradle,25,Matthew Rollings,2018-06-14T14:54:13Z,matthewrollings@gmail.com
+.circleci/config.yml,7,Matthew Rollings,2018-05-11T16:10:49Z,matthewrollings@gmail.com
+rootbeerlib/build.gradle,28,Matthew Rollings,2018-05-11T16:03:38Z,matthewrollings@gmail.com
+app/libs/armeabi/libtool-checker.so,3,Matthew Rollings,2018-05-11T16:01:52Z,matthewrollings@gmail.com
+rootbeerlib/build.gradle,28,Matthew Rollings,2018-05-11T16:01:52Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/arm64-v8a/libtool-checker.so,13,Matthew Rollings,2018-05-11T16:01:52Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/armeabi-v7a/libtool-checker.so,19,Matthew Rollings,2018-05-11T16:01:52Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/x86/libtool-checker.so,17,Matthew Rollings,2018-05-11T16:01:52Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/x86_64/libtool-checker.so,13,Matthew Rollings,2018-05-11T16:01:52Z,matthewrollings@gmail.com
+rootbeerlib/build.gradle,28,Matthew Rollings,2018-05-11T13:34:50Z,matthewrollings@gmail.com
+.circleci/config.yml,7,Matthew Rollings,2018-05-11T13:31:48Z,matthewrollings@gmail.com
+.circleci/config.yml,7,Matthew Rollings,2018-05-11T13:27:52Z,matthewrollings@gmail.com
+rootbeerlib/src/test/java/com/scottyab/rootbeer/RootBeerTest.java,13,Matthew Rollings,2018-05-11T13:16:33Z,matthewrollings@gmail.com
+app/build.gradle,24,Matthew Rollings,2018-05-11T12:00:38Z,matthewrollings@gmail.com
+build.gradle,25,Matthew Rollings,2018-05-11T12:00:38Z,matthewrollings@gmail.com
+gradle/wrapper/gradle-wrapper.properties,14,Matthew Rollings,2018-05-11T12:00:38Z,matthewrollings@gmail.com
+rootbeerlib/build.gradle,28,Matthew Rollings,2018-05-11T12:00:38Z,matthewrollings@gmail.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Matthew Rollings,2018-05-11T12:00:38Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jni/Application.mk,8,Matthew Rollings,2018-05-11T12:00:38Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/arm64-v8a/libtool-checker.so,13,Matthew Rollings,2018-05-11T12:00:38Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/armeabi-v7a/libtool-checker.so,19,Matthew Rollings,2018-05-11T12:00:38Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/armeabi/libtool-checker.so,12,Matthew Rollings,2018-05-11T12:00:38Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/mips/libtool-checker.so,12,Matthew Rollings,2018-05-11T12:00:38Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/mips64/libtool-checker.so,8,Matthew Rollings,2018-05-11T12:00:38Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/x86/libtool-checker.so,17,Matthew Rollings,2018-05-11T12:00:38Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/x86_64/libtool-checker.so,13,Matthew Rollings,2018-05-11T12:00:38Z,matthewrollings@gmail.com
+app/build.gradle,24,Matthew Rollings,2018-05-11T12:00:38Z,matthewrollings@gmail.com
+build.gradle,25,Matthew Rollings,2018-05-11T12:00:38Z,matthewrollings@gmail.com
+gradle/wrapper/gradle-wrapper.properties,14,Matthew Rollings,2018-05-11T12:00:38Z,matthewrollings@gmail.com
+rootbeerlib/build.gradle,28,Matthew Rollings,2018-05-11T12:00:38Z,matthewrollings@gmail.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Matthew Rollings,2018-05-11T12:00:38Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jni/Application.mk,8,Matthew Rollings,2018-05-11T12:00:38Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/arm64-v8a/libtool-checker.so,13,Matthew Rollings,2018-05-11T12:00:38Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/armeabi-v7a/libtool-checker.so,19,Matthew Rollings,2018-05-11T12:00:38Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/armeabi/libtool-checker.so,12,Matthew Rollings,2018-05-11T12:00:38Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/mips/libtool-checker.so,12,Matthew Rollings,2018-05-11T12:00:38Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/mips64/libtool-checker.so,8,Matthew Rollings,2018-05-11T12:00:38Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/x86/libtool-checker.so,17,Matthew Rollings,2018-05-11T12:00:38Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/x86_64/libtool-checker.so,13,Matthew Rollings,2018-05-11T12:00:38Z,matthewrollings@gmail.com
+rootbeerlib/build.gradle,28,Matthew Rollings,2018-05-11T11:04:52Z,admin@stealthcopter.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/util/QLog.java,12,Matthew Rollings,2018-05-11T11:04:52Z,admin@stealthcopter.com
+rootbeerlib/src/test/java/com/scottyab/rootbeer/RootBeerTest.java,13,Matthew Rollings,2018-05-11T11:04:52Z,admin@stealthcopter.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Matthew Rollings,2018-05-11T11:04:28Z,admin@stealthcopter.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Matthew Rollings,2018-05-11T10:59:44Z,matthewrollings@gmail.com
+app/src/main/java/com/scottyab/rootbeer/sample/CheckRootTask.java,11,Matthew Rollings,2018-03-20T17:57:33Z,admin@stealthcopter.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java,24,Matthew Rollings,2018-03-20T17:57:33Z,admin@stealthcopter.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Matthew Rollings,2018-03-20T17:57:33Z,admin@stealthcopter.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Matthew Rollings,2017-09-29T08:23:05Z,admin@stealthcopter.com
+.gitignore,15,Matthew Rollings,2017-05-12T21:31:11Z,admin@stealthcopter.com
+LICENSE,4,Matthew Rollings,2017-05-12T21:31:11Z,admin@stealthcopter.com
+README.md,43,Matthew Rollings,2017-05-12T21:31:11Z,admin@stealthcopter.com
+app/.gitignore,3,Matthew Rollings,2017-05-12T21:31:11Z,admin@stealthcopter.com
+app/app.iml,14,Matthew Rollings,2017-05-12T21:31:11Z,admin@stealthcopter.com
+app/proguard-rules.pro,3,Matthew Rollings,2017-05-12T21:31:11Z,admin@stealthcopter.com
+app/src/androidTest/java/com/scottyab/rootbeer/ApplicationTest.java,6,Matthew Rollings,2017-05-12T21:31:11Z,admin@stealthcopter.com
+app/src/main/java/com/scottyab/rootbeer/sample/TextViewFont.java,7,Matthew Rollings,2017-05-12T21:31:11Z,admin@stealthcopter.com
+app/src/main/res/layout/activity_main.xml,15,Matthew Rollings,2017-05-12T21:31:11Z,admin@stealthcopter.com
+app/src/main/res/layout/content_main.xml,6,Matthew Rollings,2017-05-12T21:31:11Z,admin@stealthcopter.com
+app/src/main/res/values/attrs.xml,4,Matthew Rollings,2017-05-12T21:31:11Z,admin@stealthcopter.com
+app/src/main/res/values/strings.xml,7,Matthew Rollings,2017-05-12T21:31:11Z,admin@stealthcopter.com
+build.gradle,25,Matthew Rollings,2017-05-12T21:31:11Z,admin@stealthcopter.com
+changes.md,8,Matthew Rollings,2017-05-12T21:31:11Z,admin@stealthcopter.com
+gradle.properties,14,Matthew Rollings,2017-05-12T21:31:11Z,admin@stealthcopter.com
+gradle/wrapper/gradle-wrapper.jar,5,Matthew Rollings,2017-05-12T21:31:11Z,admin@stealthcopter.com
+gradle/wrapper/gradle-wrapper.properties,14,Matthew Rollings,2017-05-12T21:31:11Z,admin@stealthcopter.com
+gradlew,3,Matthew Rollings,2017-05-12T21:31:11Z,admin@stealthcopter.com
+gradlew.bat,3,Matthew Rollings,2017-05-12T21:31:11Z,admin@stealthcopter.com
+rootbeer.iml,7,Matthew Rollings,2017-05-12T21:31:11Z,admin@stealthcopter.com
+rootbeerlib/.gitignore,6,Matthew Rollings,2017-05-12T21:31:11Z,admin@stealthcopter.com
+rootbeerlib/build.gradle,28,Matthew Rollings,2017-05-12T21:31:11Z,admin@stealthcopter.com
+rootbeerlib/gradle.properties,3,Matthew Rollings,2017-05-12T21:31:11Z,admin@stealthcopter.com
+rootbeerlib/proguard-rules.pro,3,Matthew Rollings,2017-05-12T21:31:11Z,admin@stealthcopter.com
+rootbeerlib/rootbeerlib.iml,12,Matthew Rollings,2017-05-12T21:31:11Z,admin@stealthcopter.com
+rootbeerlib/src/androidTest/java/com/scottyab/rootbeer/ApplicationTest.java,6,Matthew Rollings,2017-05-12T21:31:11Z,admin@stealthcopter.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/util/QLog.java,12,Matthew Rollings,2017-05-12T21:31:11Z,admin@stealthcopter.com
+rootbeerlib/src/main/jni/Android.mk,6,Matthew Rollings,2017-05-12T21:31:11Z,admin@stealthcopter.com
+rootbeerlib/src/main/jni/Application.mk,8,Matthew Rollings,2017-05-12T21:31:11Z,admin@stealthcopter.com
+rootbeerlib/src/main/jni/toolChecker.cpp,5,Matthew Rollings,2017-05-12T21:31:11Z,admin@stealthcopter.com
+rootbeerlib/src/main/jni/toolChecker.h,4,Matthew Rollings,2017-05-12T21:31:11Z,admin@stealthcopter.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Matthew Rollings,2017-05-12T21:21:12Z,admin@stealthcopter.com
+README.md,43,Matthew Rollings,2017-03-29T11:18:37Z,admin@stealthcopter.com
+app/src/main/java/com/scottyab/rootbeer/sample/CheckRootTask.java,11,Matthew Rollings,2017-03-29T11:18:37Z,admin@stealthcopter.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Matthew Rollings,2017-03-29T11:18:37Z,admin@stealthcopter.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeerNative.java,10,Matthew Rollings,2017-03-29T11:18:37Z,admin@stealthcopter.com
+README.md,43,Matthew Rollings,2017-03-24T16:11:58Z,admin@stealthcopter.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Matthew Rollings,2017-03-24T16:11:58Z,admin@stealthcopter.com
+.gitignore,15,Matthew Rollings,2017-03-24T14:49:14Z,admin@stealthcopter.com
+app/build.gradle,24,Matthew Rollings,2017-03-24T14:49:14Z,admin@stealthcopter.com
+build.gradle,25,Matthew Rollings,2017-03-24T14:49:14Z,admin@stealthcopter.com
+gradle/wrapper/gradle-wrapper.properties,14,Matthew Rollings,2017-03-24T14:49:14Z,admin@stealthcopter.com
+rootbeerlib/build.gradle,28,Matthew Rollings,2017-03-24T14:49:14Z,admin@stealthcopter.com
+rootbeerlib/jni/build.sh,8,Matthew Rollings,2017-03-24T14:49:14Z,admin@stealthcopter.com
+rootbeerlib/libs/arm64-v8a/libtool-checker.so,3,Matthew Rollings,2017-03-24T14:49:14Z,admin@stealthcopter.com
+rootbeerlib/libs/armeabi-v7a/libtool-checker.so,3,Matthew Rollings,2017-03-24T14:49:14Z,admin@stealthcopter.com
+rootbeerlib/libs/armeabi/libtool-checker.so,6,Matthew Rollings,2017-03-24T14:49:14Z,admin@stealthcopter.com
+rootbeerlib/libs/mips/libtool-checker.so,3,Matthew Rollings,2017-03-24T14:49:14Z,admin@stealthcopter.com
+rootbeerlib/libs/mips64/libtool-checker.so,3,Matthew Rollings,2017-03-24T14:49:14Z,admin@stealthcopter.com
+rootbeerlib/libs/x86/libtool-checker.so,3,Matthew Rollings,2017-03-24T14:49:14Z,admin@stealthcopter.com
+rootbeerlib/libs/x86_64/libtool-checker.so,3,Matthew Rollings,2017-03-24T14:49:14Z,admin@stealthcopter.com
+rootbeerlib/obj/local/armeabi/libstdc++.a,3,Matthew Rollings,2017-03-24T14:49:14Z,admin@stealthcopter.com
+rootbeerlib/obj/local/armeabi/libtool-checker.so,4,Matthew Rollings,2017-03-24T14:49:14Z,admin@stealthcopter.com
+rootbeerlib/obj/local/armeabi/objs/tool-checker/toolChecker.o,4,Matthew Rollings,2017-03-24T14:49:14Z,admin@stealthcopter.com
+rootbeerlib/obj/local/armeabi/objs/tool-checker/toolChecker.o.d,4,Matthew Rollings,2017-03-24T14:49:14Z,admin@stealthcopter.com
+rootbeerlib/src/main/jni/Android.mk,6,Matthew Rollings,2017-03-24T14:49:14Z,admin@stealthcopter.com
+rootbeerlib/src/main/jni/Application.mk,8,Matthew Rollings,2017-03-24T14:49:14Z,admin@stealthcopter.com
+rootbeerlib/src/main/jni/toolChecker.cpp,5,Matthew Rollings,2017-03-24T14:49:14Z,admin@stealthcopter.com
+rootbeerlib/src/main/jni/toolChecker.h,4,Matthew Rollings,2017-03-24T14:49:14Z,admin@stealthcopter.com
+rootbeerlib/src/main/jniLibs/arm64-v8a/libtool-checker.so,13,Matthew Rollings,2017-03-24T14:49:14Z,admin@stealthcopter.com
+rootbeerlib/src/main/jniLibs/armeabi-v7a/libtool-checker.so,19,Matthew Rollings,2017-03-24T14:49:14Z,admin@stealthcopter.com
+rootbeerlib/src/main/jniLibs/armeabi/libtool-checker.so,12,Matthew Rollings,2017-03-24T14:49:14Z,admin@stealthcopter.com
+rootbeerlib/src/main/jniLibs/mips/libtool-checker.so,12,Matthew Rollings,2017-03-24T14:49:14Z,admin@stealthcopter.com
+rootbeerlib/src/main/jniLibs/mips64/libtool-checker.so,8,Matthew Rollings,2017-03-24T14:49:14Z,admin@stealthcopter.com
+rootbeerlib/src/main/jniLibs/x86/libtool-checker.so,17,Matthew Rollings,2017-03-24T14:49:14Z,admin@stealthcopter.com
+rootbeerlib/src/main/jniLibs/x86_64/libtool-checker.so,13,Matthew Rollings,2017-03-24T14:49:14Z,admin@stealthcopter.com
+app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.java,14,Matthew Rollings,2017-03-24T13:41:16Z,admin@stealthcopter.com
+app/src/main/res/layout/activity_main.xml,15,Matthew Rollings,2017-03-24T13:41:16Z,admin@stealthcopter.com
+app/app.iml,14,Matthew Rollings,2017-03-24T13:31:19Z,admin@stealthcopter.com
+rootbeer.iml,7,Matthew Rollings,2017-03-24T13:31:19Z,admin@stealthcopter.com
+rootbeerlib/rootbeerlib.iml,12,Matthew Rollings,2017-03-24T13:31:19Z,admin@stealthcopter.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Matthew Rollings,2017-03-24T13:31:19Z,admin@stealthcopter.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java,24,Matthew Rollings,2017-03-24T13:30:47Z,admin@stealthcopter.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Matthew Rollings,2017-03-13T22:05:11Z,admin@stealthcopter.com
+app/app.iml,14,Matthew Rollings,2017-02-15T12:53:36Z,admin@stealthcopter.com
+app/src/main/java/com/scottyab/rootbeer/sample/CheckRootTask.java,11,Matthew Rollings,2017-02-15T12:53:36Z,admin@stealthcopter.com
+rootbeer.iml,7,Matthew Rollings,2017-02-15T12:53:36Z,admin@stealthcopter.com
+rootbeerlib/rootbeerlib.iml,12,Matthew Rollings,2017-02-15T12:53:36Z,admin@stealthcopter.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Matthew Rollings,2017-02-15T12:53:36Z,admin@stealthcopter.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/util/QLog.java,12,Matthew Rollings,2017-02-15T12:53:36Z,admin@stealthcopter.com
+app/build.gradle,24,Matthew Rollings,2016-08-31T13:03:09Z,admin@stealthcopter.com
+build.gradle,25,Matthew Rollings,2016-08-31T13:03:09Z,admin@stealthcopter.com
+rootbeerlib/build.gradle,28,Matthew Rollings,2016-08-31T13:03:09Z,admin@stealthcopter.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Matthew Rollings,2016-04-18T16:36:03Z,matthewrollings@gmail.com
+rootbeerlib/jni/build.sh,8,Matthew Rollings,2016-03-14T17:18:04Z,admin@stealthcopter.com
+rootbeerlib/src/main/jniLibs/arm64-v8a/libtool-checker.so,13,Matthew Rollings,2016-03-14T17:18:04Z,admin@stealthcopter.com
+rootbeerlib/src/main/jniLibs/mips64/libtool-checker.so,8,Matthew Rollings,2016-03-14T17:18:04Z,admin@stealthcopter.com
+rootbeerlib/src/main/jniLibs/x86_64/libtool-checker.so,13,Matthew Rollings,2016-03-14T17:18:04Z,admin@stealthcopter.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Matthew Rollings,2015-12-22T10:17:02Z,matthewrollings@gmail.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Matthew Rollings,2015-12-22T10:11:09Z,matthewrollings@gmail.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Matthew Rollings,2015-12-21T20:44:58Z,matthewrollings@gmail.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Matthew Rollings,2015-12-21T20:43:55Z,matthewrollings@gmail.com
+README.md,43,Matthew Rollings,2015-06-30T15:07:09Z,matthewrollings@gmail.com
+README.md,43,Matthew Rollings,2015-06-30T15:06:34Z,matthewrollings@gmail.com
+app/src/main/res/layout/activity_main.xml,15,Matthew Rollings,2015-06-30T15:06:34Z,matthewrollings@gmail.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java,24,Matthew Rollings,2015-06-30T15:06:34Z,matthewrollings@gmail.com
+README.md,43,Matthew Rollings,2015-06-30T15:04:49Z,matthewrollings@gmail.com
+rootbeerlib/jni/toolChecker.cpp,9,Matthew Rollings,2015-06-30T14:36:54Z,matthewrollings@gmail.com
+rootbeerlib/jni/toolChecker.h,6,Matthew Rollings,2015-06-30T14:36:54Z,matthewrollings@gmail.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Matthew Rollings,2015-06-30T14:36:54Z,matthewrollings@gmail.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeerNative.java,10,Matthew Rollings,2015-06-30T14:36:54Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/armeabi-v7a/libtool-checker.so,19,Matthew Rollings,2015-06-30T14:36:54Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/armeabi/libtool-checker.so,12,Matthew Rollings,2015-06-30T14:36:54Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/mips/libtool-checker.so,12,Matthew Rollings,2015-06-30T14:36:54Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/x86/libtool-checker.so,17,Matthew Rollings,2015-06-30T14:36:54Z,matthewrollings@gmail.com
+rootbeerlib/jni/toolChecker.cpp,9,Matthew Rollings,2015-06-30T14:14:02Z,matthewrollings@gmail.com
+rootbeerlib/jni/toolChecker.h,6,Matthew Rollings,2015-06-30T14:14:02Z,matthewrollings@gmail.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Matthew Rollings,2015-06-30T14:14:02Z,matthewrollings@gmail.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeerNative.java,10,Matthew Rollings,2015-06-30T14:14:02Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/armeabi-v7a/libtool-checker.so,19,Matthew Rollings,2015-06-30T14:14:02Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/armeabi/libtool-checker.so,12,Matthew Rollings,2015-06-30T14:14:02Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/mips/libtool-checker.so,12,Matthew Rollings,2015-06-30T14:14:02Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/x86/libtool-checker.so,17,Matthew Rollings,2015-06-30T14:14:02Z,matthewrollings@gmail.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java,24,Matthew Rollings,2015-06-30T13:40:46Z,matthewrollings@gmail.com
+art/root_beer_icon.svg,2,Matthew Rollings,2015-06-30T13:04:08Z,matthewrollings@gmail.com
+rootbeerlib/jni/toolChecker.cpp,9,Matthew Rollings,2015-06-30T13:04:08Z,matthewrollings@gmail.com
+rootbeerlib/jni/Application.mk,2,Matthew Rollings,2015-06-30T13:03:45Z,matthewrollings@gmail.com
+rootbeerlib/jni/build.sh,8,Matthew Rollings,2015-06-30T13:03:45Z,matthewrollings@gmail.com
+rootbeerlib/libs/armeabi/libtool-checker.so,6,Matthew Rollings,2015-06-30T13:03:45Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/armeabi-v7a/libtool-checker.so,19,Matthew Rollings,2015-06-30T13:03:45Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/armeabi/libtool-checker.so,12,Matthew Rollings,2015-06-30T13:03:45Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/mips/libtool-checker.so,12,Matthew Rollings,2015-06-30T13:03:45Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/x86/libtool-checker.so,17,Matthew Rollings,2015-06-30T13:03:45Z,matthewrollings@gmail.com
+rootbeerlib/jni/build.sh,8,Matthew Rollings,2015-06-26T16:10:45Z,matthewrollings@gmail.com
+rootbeerlib/jni/toolChecker.cpp,9,Matthew Rollings,2015-06-26T16:10:45Z,matthewrollings@gmail.com
+rootbeerlib/jni/toolChecker.h,6,Matthew Rollings,2015-06-26T16:10:45Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/armeabi-v7a/libtool-checker.so,19,Matthew Rollings,2015-06-26T16:10:45Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/armeabi-v7a/libroot-checker.so,2,Matthew Rollings,2015-06-26T16:00:20Z,matthewrollings@gmail.com
+app/src/main/res/mipmap-hdpi/ic_launcher.png,4,Matthew Rollings,2015-06-26T15:59:58Z,matthewrollings@gmail.com
+app/src/main/res/mipmap-mdpi/ic_launcher.png,4,Matthew Rollings,2015-06-26T15:59:58Z,matthewrollings@gmail.com
+app/src/main/res/mipmap-xhdpi/ic_launcher.png,4,Matthew Rollings,2015-06-26T15:59:58Z,matthewrollings@gmail.com
+app/src/main/res/mipmap-xxhdpi/ic_launcher.png,4,Matthew Rollings,2015-06-26T15:59:58Z,matthewrollings@gmail.com
+app/src/main/res/mipmap-xxxhdpi/ic_launcher.png,3,Matthew Rollings,2015-06-26T15:59:58Z,matthewrollings@gmail.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeerNative.java,10,Matthew Rollings,2015-06-26T15:57:05Z,matthewrollings@gmail.com
+.idea/misc.xml,5,Matthew Rollings,2015-06-26T14:41:45Z,matthewrollings@gmail.com
+.idea/runConfigurations.xml,3,Matthew Rollings,2015-06-26T14:41:45Z,matthewrollings@gmail.com
+RootChecker.iml,5,Matthew Rollings,2015-06-26T14:41:45Z,matthewrollings@gmail.com
+app/app.iml,14,Matthew Rollings,2015-06-26T14:41:45Z,matthewrollings@gmail.com
+app/src/main/java/com/scottyab/rootchecker/RootCheck.java,6,Matthew Rollings,2015-06-26T14:41:45Z,matthewrollings@gmail.com
+app/libs/armeabi/libtool-checker.so,3,Matthew Rollings,2015-06-26T14:32:45Z,matthewrollings@gmail.com
+app/src/main/java/com/scottyab/rootchecker/Const.java,1,Matthew Rollings,2015-06-26T14:32:45Z,matthewrollings@gmail.com
+app/src/main/java/com/scottyab/rootchecker/MainActivity.java,4,Matthew Rollings,2015-06-26T14:32:45Z,matthewrollings@gmail.com
+app/src/main/java/com/scottyab/rootchecker/RootCheck.java,6,Matthew Rollings,2015-06-26T14:32:45Z,matthewrollings@gmail.com
+app/jni/Android.mk,3,Matthew Rollings,2015-06-19T11:06:02Z,matthewrollings@gmail.com
+app/jni/build.sh,3,Matthew Rollings,2015-06-19T11:06:02Z,matthewrollings@gmail.com
+app/jni/toolChecker.cpp,2,Matthew Rollings,2015-06-19T11:06:02Z,matthewrollings@gmail.com
+app/jni/toolChecker.h,2,Matthew Rollings,2015-06-19T11:06:02Z,matthewrollings@gmail.com
+app/src/main/java/com/scottyab/rootchecker/RootCheckNative.java,3,Matthew Rollings,2015-06-19T11:06:02Z,matthewrollings@gmail.com
+app/src/main/jniLibs/armeabi-v7a/libtool-checker.so,2,Matthew Rollings,2015-06-19T11:06:02Z,matthewrollings@gmail.com
+app/jni/Android.mk,3,Matthew Rollings,2015-06-19T10:09:22Z,matthewrollings@gmail.com
+app/jni/build.sh,3,Matthew Rollings,2015-06-19T10:09:22Z,matthewrollings@gmail.com
+app/jni/rootChecker.cpp,1,Matthew Rollings,2015-06-19T10:09:22Z,matthewrollings@gmail.com
+app/jni/rootChecker.h,1,Matthew Rollings,2015-06-19T10:09:22Z,matthewrollings@gmail.com
+app/src/main/java/com/scottyab/rootchecker/MainActivity.java,4,Matthew Rollings,2015-06-19T10:09:22Z,matthewrollings@gmail.com
+app/src/main/java/com/scottyab/rootchecker/RootCheck.java,6,Matthew Rollings,2015-06-19T10:09:22Z,matthewrollings@gmail.com
+app/src/main/java/com/scottyab/rootchecker/RootCheckNative.java,3,Matthew Rollings,2015-06-19T10:09:22Z,matthewrollings@gmail.com
+app/src/main/jniLibs/armeabi-v7a/libroot-checker.so,2,Matthew Rollings,2015-06-19T10:09:22Z,matthewrollings@gmail.com
+app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.java,14,Mohammed Ezzat,2016-03-16T14:14:44Z,mohamed.ezzat@devfactory.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java,24,Mohammed Ezzat,2016-03-15T13:13:43Z,mohamed.ezzat@devfactory.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Mohammed Ezzat,2016-03-15T13:13:43Z,mohamed.ezzat@devfactory.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/util/QLog.java,12,Mohammed Ezzat,2016-03-15T13:13:43Z,mohamed.ezzat@devfactory.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/util/Utils.java,5,Mohammed Ezzat,2016-03-15T13:13:43Z,mohamed.ezzat@devfactory.com
+README.md,43,Prempal Singh,2020-07-27T18:50:09Z,prempal.42@gmail.com
+rootbeerlib/src/main/jni/Android.mk,6,Roberto Gonzalez,2020-07-17T08:05:44Z,slawert@gmail.com
+README.md,43,Scott Alexander-Bown,2021-06-07T08:54:51Z,github@alexander-bown.com
+app/src/main/java/com/scottyab/rootbeer/sample/CheckForRootWorker.kt,5,Scott Alexander-Bown,2021-05-24T07:46:20Z,scottyab@users.noreply.github.com
+app/src/main/java/com/scottyab/rootbeer/sample/CheckForRootWorker.kt,5,Scott Alexander-Bown,2021-05-24T07:45:07Z,scottyab@users.noreply.github.com
+build.gradle,25,Scott Alexander-Bown,2021-05-22T13:42:21Z,github@alexander-bown.com
+changes.md,8,Scott Alexander-Bown,2021-05-22T13:42:21Z,github@alexander-bown.com
+rootbeerlib/build.gradle,28,Scott Alexander-Bown,2021-05-22T13:42:21Z,github@alexander-bown.com
+rootbeerlib/src/main/AndroidManifest.xml,4,Scott Alexander-Bown,2021-05-22T13:42:21Z,github@alexander-bown.com
+rootbeerlib/src/main/cpp/CMakeLists.txt,1,Scott Alexander-Bown,2021-05-22T13:42:21Z,github@alexander-bown.com
+rootbeerlib/src/main/cpp/toolChecker.cpp,1,Scott Alexander-Bown,2021-05-22T13:42:21Z,github@alexander-bown.com
+rootbeerlib/src/main/cpp/toolChecker.h,1,Scott Alexander-Bown,2021-05-22T13:42:21Z,github@alexander-bown.com
+rootbeerlib/src/main/jni/Android.mk,6,Scott Alexander-Bown,2021-05-22T13:42:21Z,github@alexander-bown.com
+rootbeerlib/src/main/jni/Application.mk,8,Scott Alexander-Bown,2021-05-22T13:42:21Z,github@alexander-bown.com
+rootbeerlib/src/main/jniLibs/arm64-v8a/libtool-checker.so,13,Scott Alexander-Bown,2021-05-22T13:42:21Z,github@alexander-bown.com
+rootbeerlib/src/main/jniLibs/armeabi-v7a/libtool-checker.so,19,Scott Alexander-Bown,2021-05-22T13:42:21Z,github@alexander-bown.com
+rootbeerlib/src/main/jniLibs/x86/libtool-checker.so,17,Scott Alexander-Bown,2021-05-22T13:42:21Z,github@alexander-bown.com
+rootbeerlib/src/main/jniLibs/x86_64/libtool-checker.so,13,Scott Alexander-Bown,2021-05-22T13:42:21Z,github@alexander-bown.com
+app/build.gradle,24,Scott Alexander-Bown,2021-05-21T14:40:38Z,scottyab@users.noreply.github.com
+app/src/main/java/com/scottyab/rootbeer/sample/CheckForRootWorker.kt,5,Scott Alexander-Bown,2021-05-21T14:40:38Z,scottyab@users.noreply.github.com
+gradle.properties,14,Scott Alexander-Bown,2021-05-21T14:40:38Z,scottyab@users.noreply.github.com
+rootbeerlib/src/main/jniLibs/arm64-v8a/libtool-checker.so,13,Scott Alexander-Bown,2021-05-21T14:40:38Z,scottyab@users.noreply.github.com
+rootbeerlib/src/main/jniLibs/armeabi-v7a/libtool-checker.so,19,Scott Alexander-Bown,2021-05-21T14:40:38Z,scottyab@users.noreply.github.com
+rootbeerlib/src/main/jniLibs/x86/libtool-checker.so,17,Scott Alexander-Bown,2021-05-21T14:40:38Z,scottyab@users.noreply.github.com
+rootbeerlib/src/main/jniLibs/x86_64/libtool-checker.so,13,Scott Alexander-Bown,2021-05-21T14:40:38Z,scottyab@users.noreply.github.com
+app/build.gradle,24,Scott Alexander-Bown,2021-05-08T16:42:23Z,scottyab@users.noreply.github.com
+app/src/main/ic_launcher-playstore.png,1,Scott Alexander-Bown,2021-05-08T16:42:23Z,scottyab@users.noreply.github.com
+app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml,1,Scott Alexander-Bown,2021-05-08T16:42:23Z,scottyab@users.noreply.github.com
+app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml,1,Scott Alexander-Bown,2021-05-08T16:42:23Z,scottyab@users.noreply.github.com
+app/src/main/res/mipmap-hdpi/ic_launcher.png,4,Scott Alexander-Bown,2021-05-08T16:42:23Z,scottyab@users.noreply.github.com
+app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png,1,Scott Alexander-Bown,2021-05-08T16:42:23Z,scottyab@users.noreply.github.com
+app/src/main/res/mipmap-hdpi/ic_launcher_round.png,1,Scott Alexander-Bown,2021-05-08T16:42:23Z,scottyab@users.noreply.github.com
+app/src/main/res/mipmap-mdpi/ic_launcher.png,4,Scott Alexander-Bown,2021-05-08T16:42:23Z,scottyab@users.noreply.github.com
+app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png,1,Scott Alexander-Bown,2021-05-08T16:42:23Z,scottyab@users.noreply.github.com
+app/src/main/res/mipmap-mdpi/ic_launcher_round.png,1,Scott Alexander-Bown,2021-05-08T16:42:23Z,scottyab@users.noreply.github.com
+app/src/main/res/mipmap-xhdpi/ic_launcher.png,4,Scott Alexander-Bown,2021-05-08T16:42:23Z,scottyab@users.noreply.github.com
+app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png,1,Scott Alexander-Bown,2021-05-08T16:42:23Z,scottyab@users.noreply.github.com
+app/src/main/res/mipmap-xhdpi/ic_launcher_round.png,1,Scott Alexander-Bown,2021-05-08T16:42:23Z,scottyab@users.noreply.github.com
+app/src/main/res/mipmap-xxhdpi/ic_launcher.png,4,Scott Alexander-Bown,2021-05-08T16:42:23Z,scottyab@users.noreply.github.com
+app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png,1,Scott Alexander-Bown,2021-05-08T16:42:23Z,scottyab@users.noreply.github.com
+app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png,1,Scott Alexander-Bown,2021-05-08T16:42:23Z,scottyab@users.noreply.github.com
+app/src/main/res/mipmap-xxxhdpi/ic_launcher.png,3,Scott Alexander-Bown,2021-05-08T16:42:23Z,scottyab@users.noreply.github.com
+app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png,1,Scott Alexander-Bown,2021-05-08T16:42:23Z,scottyab@users.noreply.github.com
+app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png,1,Scott Alexander-Bown,2021-05-08T16:42:23Z,scottyab@users.noreply.github.com
+app/src/main/res/values/ic_launcher_background.xml,1,Scott Alexander-Bown,2021-05-08T16:42:23Z,scottyab@users.noreply.github.com
+.circleci/config.yml,7,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/build.gradle,24,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/AndroidManifest.xml,10,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/java/com/scottyab/rootbeer/sample/CheckForRootWorker.kt,5,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/java/com/scottyab/rootbeer/sample/CheckRootTask.java,11,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.java,14,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.kt,1,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/java/com/scottyab/rootbeer/sample/RootItemResult.kt,1,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/java/com/scottyab/rootbeer/sample/RootSampleApp.kt,1,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/java/com/scottyab/rootbeer/sample/TextViewFont.java,7,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/java/com/scottyab/rootbeer/sample/extensions/ViewExtensions.kt,1,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/java/com/scottyab/rootbeer/sample/ui/ResultIconView.kt,1,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/java/com/scottyab/rootbeer/sample/ui/RootItemAdapter.kt,1,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/java/com/scottyab/rootbeer/sample/ui/RootedResultTextView.kt,1,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/java/com/scottyab/rootbeer/sample/ui/ScopedActivity.kt,1,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/drawable-hdpi/ic_info_outline_white_18dp.png,2,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/drawable-hdpi/ic_info_outline_white_24dp.png,2,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/drawable-hdpi/ic_info_outline_white_36dp.png,2,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/drawable-hdpi/ic_lock_open_white_24dp.png,2,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/drawable-mdpi/ic_info_outline_white_18dp.png,2,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/drawable-mdpi/ic_info_outline_white_24dp.png,2,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/drawable-mdpi/ic_info_outline_white_36dp.png,2,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/drawable-mdpi/ic_lock_open_white_24dp.png,2,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/drawable-xhdpi/ic_cross_red_24dp.png,2,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/drawable-xhdpi/ic_info_outline_white_18dp.png,2,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/drawable-xhdpi/ic_info_outline_white_24dp.png,2,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/drawable-xhdpi/ic_info_outline_white_36dp.png,2,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/drawable-xhdpi/ic_lock_open_white_24dp.png,2,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/drawable-xhdpi/ic_tick_green_24dp.png,2,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/drawable-xxhdpi/ic_info_outline_white_18dp.png,2,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/drawable-xxhdpi/ic_info_outline_white_24dp.png,2,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/drawable-xxhdpi/ic_info_outline_white_36dp.png,2,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/drawable-xxhdpi/ic_lock_open_white_24dp.png,2,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/drawable-xxxhdpi/ic_info_outline_white_18dp.png,2,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/drawable-xxxhdpi/ic_info_outline_white_24dp.png,2,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/drawable-xxxhdpi/ic_info_outline_white_36dp.png,2,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/drawable-xxxhdpi/ic_lock_open_white_24dp.png,2,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/drawable/ic_check_circle_green_24dp.xml,1,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/drawable/ic_error_circle_outline_red_24dp.xml,1,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/drawable/ic_info_outline_white_24dp.xml,1,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/drawable/ic_lock_open_white_24dp.xml,1,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/drawable/pint_glass.png,2,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/layout/activity_main.xml,15,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/layout/content_main.xml,6,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/layout/item_root_check.xml,1,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/menu/menu_main.xml,4,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/values-w820dp/dimens.xml,3,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/values/attrs.xml,4,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/values/dimens.xml,3,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+app/src/main/res/values/strings.xml,7,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+build.gradle,25,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+changes.md,8,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+dependencies.gradle,1,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+gradle/wrapper/gradle-wrapper.properties,14,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java,24,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeerNative.java,10,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/util/Utils.java,5,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+rootbeerlib/src/test/java/com/scottyab/rootbeer/RootBeerTest.java,13,Scott Alexander-Bown,2021-05-08T14:18:37Z,github@alexander-bown.com
+README.md,43,Scott Alexander-Bown,2021-05-04T07:04:38Z,scottyab@users.noreply.github.com
+changes.md,8,Scott Alexander-Bown,2021-05-04T06:47:42Z,scottyab@users.noreply.github.com
+gradle.properties,14,Scott Alexander-Bown,2021-05-04T06:47:42Z,scottyab@users.noreply.github.com
+gradle-mvn-push.gradle,1,Scott Alexander-Bown,2020-03-16T11:44:07Z,github@alexander-bown.com
+rootbeerlib/build.gradle,28,Scott Alexander-Bown,2020-03-16T11:44:07Z,github@alexander-bown.com
+gradle.properties,14,Scott Alexander-Bown,2018-06-14T16:02:26Z,github@alexander-bown.com
+README.md,43,Scott Alexander-Bown,2017-03-29T11:25:16Z,dev@scottyab.com
+app/build.gradle,24,Scott Alexander-Bown,2017-03-29T11:25:16Z,dev@scottyab.com
+changes.md,8,Scott Alexander-Bown,2017-03-29T11:25:16Z,dev@scottyab.com
+gradle.properties,14,Scott Alexander-Bown,2017-03-29T11:25:16Z,dev@scottyab.com
+app/app.iml,14,Scott Alexander-Bown,2017-03-24T14:16:12Z,dev@scottyab.com
+app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.java,14,Scott Alexander-Bown,2017-03-24T14:16:12Z,dev@scottyab.com
+app/src/main/res/layout/activity_main.xml,15,Scott Alexander-Bown,2017-03-24T14:16:12Z,dev@scottyab.com
+rootbeer.iml,7,Scott Alexander-Bown,2017-03-24T14:16:12Z,dev@scottyab.com
+rootbeerlib/rootbeerlib.iml,12,Scott Alexander-Bown,2017-03-24T14:16:12Z,dev@scottyab.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java,24,Scott Alexander-Bown,2017-03-24T14:16:12Z,dev@scottyab.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Scott Alexander-Bown,2017-03-24T14:16:12Z,dev@scottyab.com
+.gitignore,15,Scott Alexander-Bown,2017-03-24T14:15:39Z,dev@scottyab.com
+app/app.iml,14,Scott Alexander-Bown,2017-03-24T14:15:39Z,dev@scottyab.com
+gradle/wrapper/gradle-wrapper.properties,14,Scott Alexander-Bown,2017-03-24T14:15:39Z,dev@scottyab.com
+rootbeerlib/rootbeerlib.iml,12,Scott Alexander-Bown,2017-03-24T14:15:39Z,dev@scottyab.com
+.gitignore,15,Scott Alexander-Bown,2017-03-24T14:12:34Z,dev@scottyab.com
+build.gradle,25,Scott Alexander-Bown,2017-03-24T14:09:59Z,dev@scottyab.com
+README.md,43,Scott Alexander-Bown,2016-07-01T20:21:13Z,dev@scottyab.com
+art/ss_got_root_fail.png,1,Scott Alexander-Bown,2016-07-01T20:21:13Z,dev@scottyab.com
+art/ss_no_root_pass.png,2,Scott Alexander-Bown,2016-07-01T20:21:13Z,dev@scottyab.com
+app/build.gradle,24,Scott Alexander-Bown,2016-07-01T20:14:26Z,dev@scottyab.com
+app/src/main/AndroidManifest.xml,10,Scott Alexander-Bown,2016-07-01T20:14:26Z,dev@scottyab.com
+app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.java,14,Scott Alexander-Bown,2016-07-01T20:13:52Z,dev@scottyab.com
+app/src/main/res/layout/content_main.xml,6,Scott Alexander-Bown,2016-07-01T20:13:52Z,dev@scottyab.com
+art/RootBeer-feature-graphic.png,2,Scott Alexander-Bown,2016-07-01T20:13:28Z,dev@scottyab.com
+art/ss-got-root-fail.png,2,Scott Alexander-Bown,2016-07-01T20:13:28Z,dev@scottyab.com
+art/ss_home_b4_test.png,1,Scott Alexander-Bown,2016-07-01T20:13:28Z,dev@scottyab.com
+art/ss_info.png,2,Scott Alexander-Bown,2016-07-01T20:13:28Z,dev@scottyab.com
+.gitignore,15,Scott Alexander-Bown,2016-07-01T20:13:06Z,dev@scottyab.com
+app/src/main/java/com/scottyab/rootbeer/sample/CheckRootTask.java,11,Scott Alexander-Bown,2016-07-01T20:13:06Z,dev@scottyab.com
+app/src/main/java/com/scottyab/rootbeer/sample/CheckRootTask.java,11,Scott Alexander-Bown,2016-07-01T14:25:44Z,dev@scottyab.com
+app/src/main/res/layout/content_main.xml,6,Scott Alexander-Bown,2016-07-01T14:26:07Z,dev@scottyab.com
+app/src/main/res/values/colors.xml,3,Scott Alexander-Bown,2016-07-01T14:26:07Z,dev@scottyab.com
+README.md,43,Scott Alexander-Bown,2016-05-18T08:05:58Z,dev@scottyab.com
+gradle.properties,14,Scott Alexander-Bown,2016-05-18T08:05:58Z,dev@scottyab.com
+build.gradle,25,Scott Alexander-Bown,2016-05-17T15:21:28Z,dev@scottyab.com
+gradle/wrapper/gradle-wrapper.properties,14,Scott Alexander-Bown,2016-05-17T15:21:28Z,dev@scottyab.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Scott Alexander-Bown,2016-05-17T15:20:15Z,scottyab@users.noreply.github.com
+app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.java,14,Scott Alexander-Bown,2016-04-01T15:04:36Z,scottyab@users.noreply.github.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java,24,Scott Alexander-Bown,2016-03-16T14:05:46Z,scottyab@users.noreply.github.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Scott Alexander-Bown,2016-03-16T14:05:46Z,scottyab@users.noreply.github.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/util/QLog.java,12,Scott Alexander-Bown,2016-03-16T14:05:46Z,scottyab@users.noreply.github.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/util/Utils.java,5,Scott Alexander-Bown,2016-03-16T14:05:46Z,scottyab@users.noreply.github.com
+.idea/gradle.xml,4,Scott Alexander-Bown,2016-03-14T21:04:13Z,dev@scottyab.com
+.idea/misc.xml,5,Scott Alexander-Bown,2016-03-14T21:04:13Z,dev@scottyab.com
+README.md,43,Scott Alexander-Bown,2016-03-14T21:04:13Z,dev@scottyab.com
+RootChecker.iml,5,Scott Alexander-Bown,2016-03-14T21:04:13Z,dev@scottyab.com
+app/app.iml,14,Scott Alexander-Bown,2016-03-14T21:04:13Z,dev@scottyab.com
+app/build.gradle,24,Scott Alexander-Bown,2016-03-14T21:04:13Z,dev@scottyab.com
+gradle.properties,14,Scott Alexander-Bown,2016-03-14T21:04:13Z,dev@scottyab.com
+rootbeerlib/rootbeerlib.iml,12,Scott Alexander-Bown,2016-03-14T21:04:13Z,dev@scottyab.com
+README.md,43,Scott Alexander-Bown,2016-01-06T09:32:33Z,scottyab@users.noreply.github.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Scott Alexander-Bown,2015-12-30T16:22:10Z,scottyab@users.noreply.github.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Scott Alexander-Bown,2015-12-22T09:06:26Z,scottyab@users.noreply.github.com
+rootbeerlib/src/main/AndroidManifest.xml,4,Scott Alexander-Bown,2015-10-13T08:41:54Z,github@alexander-bown.com
+app/src/main/AndroidManifest.xml,10,Scott Alexander-Bown,2015-10-01T15:20:16Z,github@alexander-bown.com
+README.md,43,Scott Alexander-Bown,2015-09-17T12:49:01Z,github@alexander-bown.com
+README.md,43,Scott Alexander-Bown,2015-09-17T12:48:32Z,github@alexander-bown.com
+art/RootBeer-feature-graphic.png,2,Scott Alexander-Bown,2015-09-16T12:37:52Z,dev@scottyab.com
+art/rootbeer-icon-playstore.png,1,Scott Alexander-Bown,2015-09-16T12:37:52Z,dev@scottyab.com
+art/ss-got-root-fail.png,2,Scott Alexander-Bown,2015-09-16T12:37:52Z,dev@scottyab.com
+art/ss_info.png,2,Scott Alexander-Bown,2015-09-16T12:37:52Z,dev@scottyab.com
+art/ss_no_root_pass.png,2,Scott Alexander-Bown,2015-09-16T12:37:52Z,dev@scottyab.com
+app/build.gradle,24,Scott Alexander-Bown,2015-09-16T12:14:10Z,dev@scottyab.com
+app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.java,14,Scott Alexander-Bown,2015-09-16T12:14:10Z,dev@scottyab.com
+app/src/main/res/layout/activity_main.xml,15,Scott Alexander-Bown,2015-09-16T12:14:10Z,dev@scottyab.com
+app/src/main/res/values/colors.xml,3,Scott Alexander-Bown,2015-09-16T12:14:10Z,dev@scottyab.com
+gradle.properties,14,Scott Alexander-Bown,2015-09-16T12:13:36Z,dev@scottyab.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java,24,Scott Alexander-Bown,2015-09-16T12:13:36Z,dev@scottyab.com
+README.md,43,Scott Alexander-Bown,2015-07-01T08:28:32Z,dev@scottyab.com
+.gitignore,15,Scott Alexander-Bown,2015-06-30T16:35:59Z,dev@scottyab.com
+README.md,43,Scott Alexander-Bown,2015-06-30T16:35:59Z,dev@scottyab.com
+rootbeerlib/.gitignore,6,Scott Alexander-Bown,2015-06-30T16:35:59Z,dev@scottyab.com
+rootbeerlib/libs/arm64-v8a/libtool-checker.so,3,Scott Alexander-Bown,2015-06-30T16:35:59Z,dev@scottyab.com
+rootbeerlib/libs/armeabi-v7a/libtool-checker.so,3,Scott Alexander-Bown,2015-06-30T16:35:59Z,dev@scottyab.com
+rootbeerlib/libs/armeabi/libtool-checker.so,6,Scott Alexander-Bown,2015-06-30T16:35:59Z,dev@scottyab.com
+rootbeerlib/libs/mips/libtool-checker.so,3,Scott Alexander-Bown,2015-06-30T16:35:59Z,dev@scottyab.com
+rootbeerlib/libs/mips64/libtool-checker.so,3,Scott Alexander-Bown,2015-06-30T16:35:59Z,dev@scottyab.com
+rootbeerlib/libs/x86/libtool-checker.so,3,Scott Alexander-Bown,2015-06-30T16:35:59Z,dev@scottyab.com
+rootbeerlib/libs/x86_64/libtool-checker.so,3,Scott Alexander-Bown,2015-06-30T16:35:59Z,dev@scottyab.com
+rootbeerlib/obj/local/armeabi/libtool-checker.so,4,Scott Alexander-Bown,2015-06-30T16:35:59Z,dev@scottyab.com
+rootbeerlib/obj/local/armeabi/objs/tool-checker/toolChecker.o,4,Scott Alexander-Bown,2015-06-30T16:35:59Z,dev@scottyab.com
+rootbeerlib/obj/local/armeabi/objs/tool-checker/toolChecker.o.d,4,Scott Alexander-Bown,2015-06-30T16:35:59Z,dev@scottyab.com
+rootbeerlib/src/main/jniLibs/armeabi-v7a/libtool-checker.so,19,Scott Alexander-Bown,2015-06-30T16:35:59Z,dev@scottyab.com
+rootbeerlib/src/main/jniLibs/armeabi/libtool-checker.so,12,Scott Alexander-Bown,2015-06-30T16:35:59Z,dev@scottyab.com
+rootbeerlib/src/main/jniLibs/mips/libtool-checker.so,12,Scott Alexander-Bown,2015-06-30T16:35:59Z,dev@scottyab.com
+rootbeerlib/src/main/jniLibs/x86/libtool-checker.so,17,Scott Alexander-Bown,2015-06-30T16:35:59Z,dev@scottyab.com
+rootbeerlib/.gitignore,6,Scott Alexander-Bown,2015-06-30T16:26:11Z,dev@scottyab.com
+.gitignore,15,Scott Alexander-Bown,2015-06-30T16:07:59Z,dev@scottyab.com
+rootbeerlib/.gitignore,6,Scott Alexander-Bown,2015-06-30T16:07:59Z,dev@scottyab.com
+RootChecker.iml,5,Scott Alexander-Bown,2015-06-30T15:51:16Z,dev@scottyab.com
+app/app.iml,14,Scott Alexander-Bown,2015-06-30T15:51:16Z,dev@scottyab.com
+build.gradle,25,Scott Alexander-Bown,2015-06-30T15:51:16Z,dev@scottyab.com
+gradle.properties,14,Scott Alexander-Bown,2015-06-30T15:51:16Z,dev@scottyab.com
+rootbeerlib/build.gradle,28,Scott Alexander-Bown,2015-06-30T15:51:16Z,dev@scottyab.com
+rootbeerlib/gradle.properties,3,Scott Alexander-Bown,2015-06-30T15:51:16Z,dev@scottyab.com
+rootbeerlib/rootbeerlib.iml,12,Scott Alexander-Bown,2015-06-30T15:51:16Z,dev@scottyab.com
+README.md,43,Scott Alexander-Bown,2015-06-30T15:31:31Z,dev@scottyab.com
+art/rootbeerjesus.png,1,Scott Alexander-Bown,2015-06-30T15:31:31Z,dev@scottyab.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java,24,Scott Alexander-Bown,2015-06-30T14:59:48Z,dev@scottyab.com
+README.md,43,Scott Alexander-Bown,2015-06-30T14:59:24Z,dev@scottyab.com
+app/src/main/res/layout/activity_main.xml,15,Scott Alexander-Bown,2015-06-30T14:59:24Z,dev@scottyab.com
+rootbeerlib/jni/toolChecker.cpp,9,Scott Alexander-Bown,2015-06-30T14:45:20Z,dev@scottyab.com
+rootbeerlib/jni/toolChecker.h,6,Scott Alexander-Bown,2015-06-30T14:45:20Z,dev@scottyab.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Scott Alexander-Bown,2015-06-30T14:45:20Z,dev@scottyab.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeerNative.java,10,Scott Alexander-Bown,2015-06-30T14:45:20Z,dev@scottyab.com
+rootbeerlib/src/main/jniLibs/armeabi-v7a/libtool-checker.so,19,Scott Alexander-Bown,2015-06-30T14:45:20Z,dev@scottyab.com
+rootbeerlib/src/main/jniLibs/armeabi/libtool-checker.so,12,Scott Alexander-Bown,2015-06-30T14:45:20Z,dev@scottyab.com
+rootbeerlib/src/main/jniLibs/mips/libtool-checker.so,12,Scott Alexander-Bown,2015-06-30T14:45:20Z,dev@scottyab.com
+rootbeerlib/src/main/jniLibs/x86/libtool-checker.so,17,Scott Alexander-Bown,2015-06-30T14:45:20Z,dev@scottyab.com
+README.md,43,Scott Alexander-Bown,2015-06-30T14:45:12Z,dev@scottyab.com
+app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.java,14,Scott Alexander-Bown,2015-06-30T14:45:12Z,dev@scottyab.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Scott Alexander-Bown,2015-06-30T14:45:12Z,dev@scottyab.com
+rootbeerlib/jni/Application.mk,2,Scott Alexander-Bown,2015-06-30T14:14:20Z,dev@scottyab.com
+rootbeerlib/jni/build.sh,8,Scott Alexander-Bown,2015-06-30T14:14:20Z,dev@scottyab.com
+rootbeerlib/jni/toolChecker.cpp,9,Scott Alexander-Bown,2015-06-30T14:14:20Z,dev@scottyab.com
+rootbeerlib/jni/toolChecker.h,6,Scott Alexander-Bown,2015-06-30T14:14:20Z,dev@scottyab.com
+rootbeerlib/libs/armeabi/libtool-checker.so,6,Scott Alexander-Bown,2015-06-30T14:14:20Z,dev@scottyab.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java,24,Scott Alexander-Bown,2015-06-30T14:14:20Z,dev@scottyab.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Scott Alexander-Bown,2015-06-30T14:14:20Z,dev@scottyab.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeerNative.java,10,Scott Alexander-Bown,2015-06-30T14:14:20Z,dev@scottyab.com
+rootbeerlib/src/main/jniLibs/armeabi-v7a/libtool-checker.so,19,Scott Alexander-Bown,2015-06-30T14:14:20Z,dev@scottyab.com
+rootbeerlib/src/main/jniLibs/armeabi/libtool-checker.so,12,Scott Alexander-Bown,2015-06-30T14:14:20Z,dev@scottyab.com
+rootbeerlib/src/main/jniLibs/mips/libtool-checker.so,12,Scott Alexander-Bown,2015-06-30T14:14:20Z,dev@scottyab.com
+rootbeerlib/src/main/jniLibs/x86/libtool-checker.so,17,Scott Alexander-Bown,2015-06-30T14:14:20Z,dev@scottyab.com
+README.md,43,Scott Alexander-Bown,2015-06-30T14:14:08Z,dev@scottyab.com
+app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.java,14,Scott Alexander-Bown,2015-06-30T14:14:08Z,dev@scottyab.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Scott Alexander-Bown,2015-06-30T14:14:08Z,dev@scottyab.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/util/Utils.java,5,Scott Alexander-Bown,2015-06-30T14:14:08Z,dev@scottyab.com
+art/root_beer_icon.svg,2,Scott Alexander-Bown,2015-06-30T12:58:32Z,dev@scottyab.com
+rootbeerlib/jni/toolChecker.cpp,9,Scott Alexander-Bown,2015-06-30T12:58:19Z,dev@scottyab.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java,24,Scott Alexander-Bown,2015-06-29T13:06:59Z,dev@scottyab.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Scott Alexander-Bown,2015-06-29T13:06:59Z,dev@scottyab.com
+README.md,43,Scott Alexander-Bown,2015-06-29T13:06:14Z,dev@scottyab.com
+app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.java,14,Scott Alexander-Bown,2015-06-29T13:06:14Z,dev@scottyab.com
+app/src/main/res/drawable-hdpi/ic_action_github.png,2,Scott Alexander-Bown,2015-06-29T13:06:14Z,dev@scottyab.com
+app/src/main/res/drawable-xhdpi/ic_action_github.png,2,Scott Alexander-Bown,2015-06-29T13:06:14Z,dev@scottyab.com
+app/src/main/res/drawable-xxhdpi/ic_action_github.png,2,Scott Alexander-Bown,2015-06-29T13:06:14Z,dev@scottyab.com
+app/src/main/res/layout/activity_main.xml,15,Scott Alexander-Bown,2015-06-29T13:06:14Z,dev@scottyab.com
+app/src/main/res/menu/menu_main.xml,4,Scott Alexander-Bown,2015-06-29T13:06:14Z,dev@scottyab.com
+app/src/main/res/values/strings.xml,7,Scott Alexander-Bown,2015-06-29T13:06:14Z,dev@scottyab.com
+README.md,43,Scott Alexander-Bown,2015-06-26T18:49:17Z,dev@scottyab.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/util/QLog.java,12,Scott Alexander-Bown,2015-06-26T18:48:49Z,dev@scottyab.com
+.idea/gradle.xml,4,Scott Alexander-Bown,2015-06-26T15:50:40Z,dev@scottyab.com
+.idea/modules.xml,3,Scott Alexander-Bown,2015-06-26T15:50:40Z,dev@scottyab.com
+app/app.iml,14,Scott Alexander-Bown,2015-06-26T15:50:40Z,dev@scottyab.com
+app/build.gradle,24,Scott Alexander-Bown,2015-06-26T15:50:40Z,dev@scottyab.com
+app/src/androidTest/java/com/scottyab/rootbeer/ApplicationTest.java,6,Scott Alexander-Bown,2015-06-26T15:50:40Z,dev@scottyab.com
+app/src/main/AndroidManifest.xml,10,Scott Alexander-Bown,2015-06-26T15:50:40Z,dev@scottyab.com
+app/src/main/java/com/scottyab/rootbeer/sample/MainActivity.java,14,Scott Alexander-Bown,2015-06-26T15:50:40Z,dev@scottyab.com
+app/src/main/res/values/strings.xml,7,Scott Alexander-Bown,2015-06-26T15:50:40Z,dev@scottyab.com
+rootbeerlib/.gitignore,6,Scott Alexander-Bown,2015-06-26T15:50:40Z,dev@scottyab.com
+rootbeerlib/build.gradle,28,Scott Alexander-Bown,2015-06-26T15:50:40Z,dev@scottyab.com
+rootbeerlib/jni/Android.mk,1,Scott Alexander-Bown,2015-06-26T15:50:40Z,dev@scottyab.com
+rootbeerlib/jni/build.sh,8,Scott Alexander-Bown,2015-06-26T15:50:40Z,dev@scottyab.com
+rootbeerlib/jni/toolChecker.cpp,9,Scott Alexander-Bown,2015-06-26T15:50:40Z,dev@scottyab.com
+rootbeerlib/jni/toolChecker.h,6,Scott Alexander-Bown,2015-06-26T15:50:40Z,dev@scottyab.com
+rootbeerlib/libs/armeabi/libtool-checker.so,6,Scott Alexander-Bown,2015-06-26T15:50:40Z,dev@scottyab.com
+rootbeerlib/obj/local/armeabi/libstdc++.a,3,Scott Alexander-Bown,2015-06-26T15:50:40Z,dev@scottyab.com
+rootbeerlib/obj/local/armeabi/libtool-checker.so,4,Scott Alexander-Bown,2015-06-26T15:50:40Z,dev@scottyab.com
+rootbeerlib/obj/local/armeabi/objs/tool-checker/toolChecker.o,4,Scott Alexander-Bown,2015-06-26T15:50:40Z,dev@scottyab.com
+rootbeerlib/obj/local/armeabi/objs/tool-checker/toolChecker.o.d,4,Scott Alexander-Bown,2015-06-26T15:50:40Z,dev@scottyab.com
+rootbeerlib/proguard-rules.pro,3,Scott Alexander-Bown,2015-06-26T15:50:40Z,dev@scottyab.com
+rootbeerlib/rootbeerlib.iml,12,Scott Alexander-Bown,2015-06-26T15:50:40Z,dev@scottyab.com
+rootbeerlib/src/androidTest/java/com/scottyab/rootbeer/ApplicationTest.java,6,Scott Alexander-Bown,2015-06-26T15:50:40Z,dev@scottyab.com
+rootbeerlib/src/main/AndroidManifest.xml,4,Scott Alexander-Bown,2015-06-26T15:50:40Z,dev@scottyab.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java,24,Scott Alexander-Bown,2015-06-26T15:50:40Z,dev@scottyab.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Scott Alexander-Bown,2015-06-26T15:50:40Z,dev@scottyab.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeerNative.java,10,Scott Alexander-Bown,2015-06-26T15:50:40Z,dev@scottyab.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/util/QLog.java,12,Scott Alexander-Bown,2015-06-26T15:50:40Z,dev@scottyab.com
+rootbeerlib/src/main/jniLibs/armeabi-v7a/libroot-checker.so,2,Scott Alexander-Bown,2015-06-26T15:50:40Z,dev@scottyab.com
+rootbeerlib/src/main/jniLibs/armeabi-v7a/libtool-checker.so,19,Scott Alexander-Bown,2015-06-26T15:50:40Z,dev@scottyab.com
+rootbeerlib/src/main/res/values/strings.xml,2,Scott Alexander-Bown,2015-06-26T15:50:40Z,dev@scottyab.com
+settings.gradle,2,Scott Alexander-Bown,2015-06-26T15:50:40Z,dev@scottyab.com
+app/jni/Android.mk,3,Scott Alexander-Bown,2015-06-19T17:21:37Z,dev@scottyab.com
+app/jni/build.sh,3,Scott Alexander-Bown,2015-06-19T17:21:37Z,dev@scottyab.com
+app/jni/toolChecker.cpp,2,Scott Alexander-Bown,2015-06-19T17:21:37Z,dev@scottyab.com
+app/jni/toolChecker.h,2,Scott Alexander-Bown,2015-06-19T17:21:37Z,dev@scottyab.com
+app/src/main/java/com/scottyab/rootchecker/MainActivity.java,4,Scott Alexander-Bown,2015-06-19T17:21:37Z,dev@scottyab.com
+app/src/main/java/com/scottyab/rootchecker/RootCheck.java,6,Scott Alexander-Bown,2015-06-19T17:21:37Z,dev@scottyab.com
+app/src/main/java/com/scottyab/rootchecker/RootCheckNative.java,3,Scott Alexander-Bown,2015-06-19T17:21:37Z,dev@scottyab.com
+app/src/main/jniLibs/armeabi-v7a/libroot-checker.so,2,Scott Alexander-Bown,2015-06-19T17:21:37Z,dev@scottyab.com
+app/src/main/jniLibs/armeabi-v7a/libtool-checker.so,2,Scott Alexander-Bown,2015-06-19T17:21:37Z,dev@scottyab.com
+.idea/misc.xml,5,Scott Alexander-Bown,2015-06-19T17:20:07Z,dev@scottyab.com
+.idea/runConfigurations.xml,3,Scott Alexander-Bown,2015-06-19T17:20:07Z,dev@scottyab.com
+RootChecker.iml,5,Scott Alexander-Bown,2015-06-19T17:20:07Z,dev@scottyab.com
+app/app.iml,14,Scott Alexander-Bown,2015-06-19T17:20:07Z,dev@scottyab.com
+app/src/main/java/com/scottyab/rootchecker/RootCheck.java,6,Scott Alexander-Bown,2015-06-19T17:20:07Z,dev@scottyab.com
+.gitignore,15,Scott Alexander-Bown,2015-06-19T09:06:26Z,dev@scottyab.com
+.gitignore,15,Scott Alexander-Bown,2015-06-19T09:05:57Z,dev@scottyab.com
+LICENSE,4,Scott Alexander-Bown,2015-06-19T09:05:57Z,dev@scottyab.com
+README.md,43,Scott Alexander-Bown,2015-06-19T09:05:57Z,dev@scottyab.com
+.gitignore,15,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+.idea/.name,2,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+.idea/compiler.xml,2,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+.idea/copyright/profiles_settings.xml,2,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+.idea/gradle.xml,4,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+.idea/misc.xml,5,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+.idea/modules.xml,3,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+.idea/vcs.xml,2,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+RootChecker.iml,5,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+app/.gitignore,3,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+app/app.iml,14,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+app/build.gradle,24,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+app/proguard-rules.pro,3,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+app/src/androidTest/java/com/scottyab/rootchecker/ApplicationTest.java,1,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+app/src/main/AndroidManifest.xml,10,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+app/src/main/java/com/scottyab/rootchecker/MainActivity.java,4,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+app/src/main/java/com/scottyab/rootchecker/RootCheck.java,6,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+app/src/main/java/com/scottyab/rootchecker/util/QLog.java,1,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+app/src/main/res/layout/activity_main.xml,15,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+app/src/main/res/menu/menu_main.xml,4,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+app/src/main/res/mipmap-hdpi/ic_launcher.png,4,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+app/src/main/res/mipmap-mdpi/ic_launcher.png,4,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+app/src/main/res/mipmap-xhdpi/ic_launcher.png,4,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+app/src/main/res/mipmap-xxhdpi/ic_launcher.png,4,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+app/src/main/res/values-w820dp/dimens.xml,3,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+app/src/main/res/values/dimens.xml,3,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+app/src/main/res/values/strings.xml,7,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+app/src/main/res/values/styles.xml,4,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+build.gradle,25,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+gradle.properties,14,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+gradle/wrapper/gradle-wrapper.jar,5,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+gradle/wrapper/gradle-wrapper.properties,14,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+gradlew,3,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+gradlew.bat,3,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+settings.gradle,2,Scott Alexander-Bown,2015-06-19T09:05:10Z,dev@scottyab.com
+.gitignore,15,Scott Alexander-Bown,2015-06-19T09:01:56Z,github@alexander-bown.com
+LICENSE,4,Scott Alexander-Bown,2015-06-19T09:01:56Z,github@alexander-bown.com
+README.md,43,Scott Alexander-Bown,2015-06-19T09:01:56Z,github@alexander-bown.com
+app/build.gradle,24,Sergey Valiulik,2016-07-07T08:48:51Z,siarhei_valiulik@epam.com
+build.gradle,25,Sergey Valiulik,2016-07-07T08:48:51Z,siarhei_valiulik@epam.com
+rootbeerlib/build.gradle,28,Sergey Valiulik,2016-07-07T08:48:51Z,siarhei_valiulik@epam.com
+README.md,43,Shanmugasanthosh,2018-11-04T05:03:57Z,shanmugasanthosh@outlook.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,Slim Namouchi,2020-07-21T13:19:44Z,namouchi.slim@gmail.com
+rootbeerlib/src/main/res/values/strings.xml,2,Stefan M,2020-07-22T11:25:49Z,StefMa@users.noreply.github.com
+rootbeerlib/jni/toolChecker.cpp,9,aippisch,2016-09-16T14:04:45Z,andre.ippisch@googlemail.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,altvnv,2018-03-16T16:49:07Z,alex.o.litvinov@gmail.com
+app/src/main/java/com/scottyab/rootbeer/sample/CheckRootTask.java,11,altvnv,2018-03-16T16:42:19Z,alex.o.litvinov@gmail.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java,24,altvnv,2018-03-16T16:42:19Z,alex.o.litvinov@gmail.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,altvnv,2018-03-16T16:42:19Z,alex.o.litvinov@gmail.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,altvnv,2018-03-16T12:14:23Z,alex.o.litvinov@gmail.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java,24,altvnv,2018-03-16T12:02:21Z,alex.o.litvinov@gmail.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java,24,altvnv,2018-03-16T11:36:53Z,alex.o.litvinov@gmail.com
+rootbeerlib/jni/build.sh,8,biddster,2016-03-07T14:21:36Z,luke.biddell@gmail.com
+rootbeerlib/src/main/jniLibs/arm64-v8a/libtool-checker.so,13,biddster,2016-03-07T14:21:36Z,luke.biddell@gmail.com
+rootbeerlib/src/main/jniLibs/mips64/libtool-checker.so,8,biddster,2016-03-07T14:21:36Z,luke.biddell@gmail.com
+rootbeerlib/src/main/jniLibs/x86_64/libtool-checker.so,13,biddster,2016-03-07T14:21:36Z,luke.biddell@gmail.com
+app/src/main/java/com/scottyab/rootbeer/sample/CheckForRootWorker.kt,5,grubeli,2021-11-16T14:04:57Z,grubeli@mego.bar
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,leocadiotine,2016-09-14T21:25:21Z,leocadiotine@gmail.com
+app/build.gradle,24,mat,2020-03-11T09:38:15Z,matthewrollings@pm.me
+art/RootBeer-tv-graphic.png,1,mat,2020-03-11T09:38:15Z,matthewrollings@pm.me
+art/tv-1.png,1,mat,2020-03-11T09:38:15Z,matthewrollings@pm.me
+art/tv-2.png,1,mat,2020-03-11T09:38:15Z,matthewrollings@pm.me
+art/tv-3.png,1,mat,2020-03-11T09:38:15Z,matthewrollings@pm.me
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,mat,2020-02-07T09:43:09Z,matthewrollings@pm.me
+rootbeerlib/src/main/java/com/scottyab/rootbeer/util/QLog.java,12,mat,2020-02-07T09:43:09Z,matthewrollings@pm.me
+README.md,43,mat,2020-02-04T13:41:34Z,matthewrollings@pm.me
+app/build.gradle,24,mat,2020-02-04T13:41:34Z,matthewrollings@pm.me
+build.gradle,25,mat,2020-02-04T13:41:34Z,matthewrollings@pm.me
+rootbeerlib/build.gradle,28,mat,2020-02-04T13:41:34Z,matthewrollings@pm.me
+rootbeerlib/src/main/jniLibs/arm64-v8a/libtool-checker.so,13,mat,2020-02-04T13:41:34Z,matthewrollings@pm.me
+rootbeerlib/src/main/jniLibs/armeabi-v7a/libtool-checker.so,19,mat,2020-02-04T13:41:34Z,matthewrollings@pm.me
+rootbeerlib/src/main/jniLibs/x86/libtool-checker.so,17,mat,2020-02-04T13:41:34Z,matthewrollings@pm.me
+rootbeerlib/src/main/jniLibs/x86_64/libtool-checker.so,13,mat,2020-02-04T13:41:34Z,matthewrollings@pm.me
+.circleci/config.yml,7,mat,2020-02-04T13:21:36Z,matthewrollings@pm.me
+changes.md,8,mat,2020-02-04T11:42:07Z,matthewrollings@pm.me
+art/sticker.png,2,mat,2020-02-04T11:41:46Z,matthewrollings@pm.me
+rootbeerlib/src/test/java/com/scottyab/rootbeer/RootBeerTest.java,13,mat,2020-01-30T16:12:36Z,matthewrollings@pm.me
+rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java,24,mat,2020-01-30T13:09:02Z,matthewrollings@pm.me
+rootbeerlib/src/main/java/com/scottyab/rootbeer/Const.java,24,mat,2020-01-28T14:06:12Z,matthewrollings@pm.me
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,mat,2020-01-28T14:06:12Z,matthewrollings@pm.me
+README.md,43,mat,2020-01-28T13:12:19Z,matthewrollings@pm.me
+README.md,43,mat,2020-01-28T13:03:18Z,matthewrollings@pm.me
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,mat,2020-01-28T13:03:18Z,matthewrollings@pm.me
+rootbeerlib/src/test/java/com/scottyab/rootbeer/RootBeerTest.java,13,mat,2020-01-28T13:03:18Z,matthewrollings@pm.me
+README.md,43,mat,2020-01-28T12:51:22Z,matthewrollings@pm.me
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,mat,2020-01-28T12:41:49Z,matthewrollings@pm.me
+build.gradle,25,mat,2020-01-28T12:31:03Z,matthewrollings@pm.me
+gradle/wrapper/gradle-wrapper.properties,14,mat,2020-01-28T12:31:03Z,matthewrollings@pm.me
+rootbeerlib/build.gradle,28,mat,2020-01-28T12:31:03Z,matthewrollings@pm.me
+rootbeerlib/build.gradle,28,matthew,2017-10-31T18:57:32Z,matthewrollings@gmail.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/util/QLog.java,12,matthew,2017-10-31T18:57:32Z,matthewrollings@gmail.com
+rootbeerlib/src/test/java/com/scottyab/rootbeer/RootBeerTest.java,13,matthew,2017-10-31T18:57:32Z,matthewrollings@gmail.com
+rootbeerlib/rootbeerlib.iml,12,matthew,2017-03-13T22:55:31Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jni/toolChecker.cpp,5,matthew,2017-03-13T22:55:31Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/arm64-v8a/libtool-checker.so,13,matthew,2017-03-13T22:55:31Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/armeabi-v7a/libtool-checker.so,19,matthew,2017-03-13T22:55:31Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/armeabi/libtool-checker.so,12,matthew,2017-03-13T22:55:31Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/mips/libtool-checker.so,12,matthew,2017-03-13T22:55:31Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/mips64/libtool-checker.so,8,matthew,2017-03-13T22:55:31Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/x86/libtool-checker.so,17,matthew,2017-03-13T22:55:31Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/x86_64/libtool-checker.so,13,matthew,2017-03-13T22:55:31Z,matthewrollings@gmail.com
+app/app.iml,14,matthew,2017-03-13T22:35:27Z,matthewrollings@gmail.com
+app/build.gradle,24,matthew,2017-03-13T22:35:27Z,matthewrollings@gmail.com
+build.gradle,25,matthew,2017-03-13T22:35:27Z,matthewrollings@gmail.com
+gradle/wrapper/gradle-wrapper.properties,14,matthew,2017-03-13T22:35:27Z,matthewrollings@gmail.com
+rootbeer.iml,7,matthew,2017-03-13T22:35:27Z,matthewrollings@gmail.com
+rootbeerlib/build.gradle,28,matthew,2017-03-13T22:35:27Z,matthewrollings@gmail.com
+rootbeerlib/jni/build.sh,8,matthew,2017-03-13T22:35:27Z,matthewrollings@gmail.com
+rootbeerlib/libs/arm64-v8a/libtool-checker.so,3,matthew,2017-03-13T22:35:27Z,matthewrollings@gmail.com
+rootbeerlib/libs/armeabi-v7a/libtool-checker.so,3,matthew,2017-03-13T22:35:27Z,matthewrollings@gmail.com
+rootbeerlib/libs/armeabi/libtool-checker.so,6,matthew,2017-03-13T22:35:27Z,matthewrollings@gmail.com
+rootbeerlib/libs/mips/libtool-checker.so,3,matthew,2017-03-13T22:35:27Z,matthewrollings@gmail.com
+rootbeerlib/libs/mips64/libtool-checker.so,3,matthew,2017-03-13T22:35:27Z,matthewrollings@gmail.com
+rootbeerlib/libs/x86/libtool-checker.so,3,matthew,2017-03-13T22:35:27Z,matthewrollings@gmail.com
+rootbeerlib/libs/x86_64/libtool-checker.so,3,matthew,2017-03-13T22:35:27Z,matthewrollings@gmail.com
+rootbeerlib/obj/local/armeabi/libstdc++.a,3,matthew,2017-03-13T22:35:27Z,matthewrollings@gmail.com
+rootbeerlib/obj/local/armeabi/libtool-checker.so,4,matthew,2017-03-13T22:35:27Z,matthewrollings@gmail.com
+rootbeerlib/obj/local/armeabi/objs/tool-checker/toolChecker.o,4,matthew,2017-03-13T22:35:27Z,matthewrollings@gmail.com
+rootbeerlib/obj/local/armeabi/objs/tool-checker/toolChecker.o.d,4,matthew,2017-03-13T22:35:27Z,matthewrollings@gmail.com
+rootbeerlib/rootbeerlib.iml,12,matthew,2017-03-13T22:35:27Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jni/Android.mk,6,matthew,2017-03-13T22:35:27Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jni/Application.mk,8,matthew,2017-03-13T22:35:27Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jni/toolChecker.cpp,5,matthew,2017-03-13T22:35:27Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jni/toolChecker.h,4,matthew,2017-03-13T22:35:27Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/arm64-v8a/libtool-checker.so,13,matthew,2017-03-13T22:35:27Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/armeabi-v7a/libtool-checker.so,19,matthew,2017-03-13T22:35:27Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/armeabi/libtool-checker.so,12,matthew,2017-03-13T22:35:27Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/mips/libtool-checker.so,12,matthew,2017-03-13T22:35:27Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/mips64/libtool-checker.so,8,matthew,2017-03-13T22:35:27Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/x86/libtool-checker.so,17,matthew,2017-03-13T22:35:27Z,matthewrollings@gmail.com
+rootbeerlib/src/main/jniLibs/x86_64/libtool-checker.so,13,matthew,2017-03-13T22:35:27Z,matthewrollings@gmail.com
+rootbeerlib/src/main/java/com/scottyab/rootbeer/RootBeer.java,53,vyas,2017-05-10T19:44:29Z,vyasnellutla@gmail.com
+README.md,43,zhqcqupt,2019-11-29T17:15:51Z,zhqcucn@gmail.com
