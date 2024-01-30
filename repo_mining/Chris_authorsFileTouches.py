@@ -85,9 +85,9 @@ repo = 'scottyab/rootbeer'
 # Remember to empty the list when going to commit to GitHub.
 # Otherwise they will all be reverted and you will have to re-create them
 # I would advise to create more than one token for repos with heavy commits
-lstTokens = ["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",
-                "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",
-                "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"]
+lstTokens = ["ghp_PJx6h9sdaffdwckl9sadfasqPdfGDYC90eafoirXI26o0Sg04g",
+                "ghp_qYnsadfwM3IS5nVRLHHSQcG4dsfafdasQycPWnXwgU1MSK8B",
+                "ghp_2SVVxdP4PdPiOmucvtNbuDLxsdfsdfe76XPJ1pArNr"]
 
 dictfiles = dict()
 countfiles(dictfiles, lstTokens, repo)
